@@ -1,0 +1,139 @@
+h2{
+    text-align: center;
+    color: whitesmoke;
+}
+
+.container{
+    margin: 0 auto;
+    width: 580px;;
+    border: 1px black;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: #327a71;
+    font-family: Bahnschrift;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+
+.tbl_box td{
+    padding: 10px 35px;
+}
+
+.tbl td{
+    border: 2px solid black;
+}
+
+.tbl_lst{
+    width: 100%;
+}
+
+td input{
+    width: 130%;
+}
+
+.selectid td{
+    padding: 4px 20px;
+}
+
+#blah{
+    border: 1px solid black;
+}
+
+.left{
+    height:120px;
+    width: 120px;
+    margin: 0px auto;
+}
+
+
+.left img{
+    height:120px;
+    width: 120px;
+}
+
+#dropZone {
+    background-color: moccasin;
+    border: 1px dashed;
+    padding: 20px 0;
+    text-align: center;
+    width: 100%;
+    font-family: cursive;
+}
+
+#btnInsert{
+    border-color: black;
+    color: white;
+    text-align: center;
+    margin-right: 20px;
+    margin-left: 25%;
+    background: #2b6e04;
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    font-family: Segoe UI;
+}
+
+#btnInsert:hover{
+    background-color: green;
+}
+
+#btnupdate{
+    border-color: black;
+    color: white;
+    text-align: center;
+    margin-right: 20px;
+    background: #04656e;
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    font-family: Segoe UI;
+}
+
+#btnupdate:hover{
+    background-color: darkcyan;
+}
+
+#btndel{
+    border-color: black;
+    color: white;
+    text-align: center;
+    background: #871c1c;
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    font-family: Segoe UI;
+}
+
+#btndel:hover{
+    background-color: red;;
+}
+
+#button{
+    padding: 0 50px;
+}
+
+#btnshow{
+    margin: 0 10px;
+    color: white;
+    width:80px;
+    height:30px;
+    background: #265796;
+    border-radius: 5px;
+    font-family: Segoe UI;
+}
+
+#btnshow:hover{
+    background-color: dodgerblue;
+}
+
+#ddlid{
+    width: 250px;
+    height: 30px;
+}
+
+.tbl{
+    width: 100%;
+}

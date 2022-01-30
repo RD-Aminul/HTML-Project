@@ -1,0 +1,131 @@
+h2{
+    text-align: center;
+    color: chocolate;
+}
+.container{
+    width: 580px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px black;
+    border-radius: 10px;
+    background-color: lightgray;
+    font-family: Arial;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.inputtable td{
+    padding: 10px 35px;
+  }
+
+.inputtable input{
+    width: 130%;
+  }
+
+#holdImg{
+ margin-left: 35%;
+}
+
+.outputtable{
+  width: 100%;
+}
+
+.outputtable td{
+  border: 2px solid black;
+}
+
+#holdImg{
+  border: 1px solid black;
+}
+
+#dropZone {
+    background-color: lightsteelblue;
+    border: 1px dashed;
+    padding: 20px 0;
+    text-align: center;
+    margin-bottom: 15px;
+    font-family: cursive;
+  }
+
+#button{
+    text-align: center;
+}
+
+#addBtn{
+    color: white;
+    text-align: center;
+    margin-right: 20px;
+    background: #2b6e04;
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    font-family: Segoe UI;
+}
+
+#addBtn:hover{
+    background-color: green;
+}
+
+#updateBtn{
+    color: white;
+    text-align: center;
+    margin-right: 20px;
+    background: #04656e;
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    font-family: Segoe UI;
+}
+
+#updateBtn:hover{
+    background-color: darkcyan;
+}
+
+#deleteBtn{
+    color: white;
+    text-align: center;
+    background: #871c1c;
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    font-family: Segoe UI;
+}
+
+#deleteBtn:hover{
+    background-color: red;
+}
+
+.updateDelete{
+    background-color: #e3e8e8;
+    width: 100%;
+}
+
+hr{
+    color: navajowhite;
+    margin-bottom: 15px;
+}
+
+#ddlid{
+    width: 95%;
+    height: 20px;
+}
+
+b{
+    font-size: 15px;
+}
+
+#showinfo{
+    margin: 0 10px;
+    color: white;
+    width:80px;
+    height:30px;
+    background: #265796;
+    border-radius: 5px;
+    font-family: Segoe UI;
+}
+
+#showinfo:hover{
+    background-color: dodgerblue;
+}
